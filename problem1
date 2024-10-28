@@ -1,0 +1,4 @@
+Write a Python program that takes a string input from the user and checks if Enjoy available in
+ the input string:
+ 
+ "Hello, world! Hello everyone. Welcome to the world of Python. Enjoy coding in Python."
