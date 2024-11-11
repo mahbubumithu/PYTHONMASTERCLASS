@@ -1,0 +1,2 @@
+write python programs to add 1 to each element in a list and generate a new list with the updated values . implement the solution using both a for loop and while loop
+numbers = [1,2,3,4,5]
